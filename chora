@@ -1,0 +1,21 @@
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main(){
+  
+  var ornitorrinco = Animal ("Ornithorhynchus", '14linhas de erro', "voa", "Carnivoro"
+  println(ornitorrinco.dieta)
+    
+  }
+    
+    
+   
+
+  class Animal(val especie:String,val genero:Char, val habitat:String, val dieta:String, val idade:Int)
+  
+  // metodos = comportamentos da nossa classe,que os nossos objetos receberão e eles os metodos são declarados usando funções
+  
+  
+    fun Atacar){
+      var bravo:Boolean
